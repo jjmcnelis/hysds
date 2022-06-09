@@ -38,7 +38,7 @@ Core component for the Hybrid Science Data System
 
 3. Install prov-es:
   ```
-  git clone https://github.com/pymonger/prov_es.git
+  git clone https://github.com/hysds/prov_es.git
   cd prov_es
   pip install .
   cd ..
